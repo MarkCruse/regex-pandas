@@ -12,7 +12,6 @@
 - [Check Valid Time Format](#Check-Valid-Time-Format)
 - [Validating HTML tags](#Validating-HTML-tags)
 - [Validating MAC addresses](#Validating-MAC-addresses)  
-   
 - [Other resources](https://github.com/MarkCruse/regex-pandas/blob/master/regex_sources.md)  
 
 <br>
